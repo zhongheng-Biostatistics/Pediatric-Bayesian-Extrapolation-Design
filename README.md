@@ -1,0 +1,1 @@
+The function is used to obtain the power and type I error for the Pediatric Bayesian extrapolation design (PED). All the functions have the detailed comments. Example.r will use all the functions to obtain the type I error and power. 
